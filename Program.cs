@@ -68,6 +68,7 @@ namespace Stopwatch
             Console.WriteLine("Stop finalizado!");
 
             Menu();
+
         }
 
 
